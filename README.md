@@ -19,5 +19,5 @@ ada di atas
 ## Penjelasan Alur
 - Manajemen data alat camping (tambah, edit, hapus, lihat)
 - Kategorisasi alat berdasarkan jenis (tenda, peralatan masak, dll.)
-= Daftar supplier penyedia alat camping
+- Daftar supplier penyedia alat camping
 - Relasi database antar tabel (alat ↔ jenis_alat, alat ↔ supplier)
